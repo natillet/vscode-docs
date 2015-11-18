@@ -13,7 +13,7 @@ If you don't see an answer to your question here, check our previously [reported
 ## How do I update to the latest version?
 See [how to update](howtoupdate). You'll find downloads for Linux (32-bit and 64-bit) and OS X, and both an installer and download for Windows.
 
-## Which OS's are supported
+## Which OSes are supported?
 VS Code runs on Mac, Linux, and Windows. See [Requirements](requirements) for the supported versions.
 
 ## How do I opt out of VS Code auto-updates?
